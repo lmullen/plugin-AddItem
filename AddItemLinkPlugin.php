@@ -8,7 +8,7 @@
  *
  */
 
-class AddItemPlugin extends Omeka_Plugin_AbstractPlugin
+class AddItemLinkPlugin extends Omeka_Plugin_AbstractPlugin
 {
   protected $_filters = array('public_navigation_admin_bar', 
     'admin_navigation_main');
