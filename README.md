@@ -1,4 +1,4 @@
-# Catalog Search Plugin for Omeka
+# Add Item Link Plugin for Omeka
 
 A plugin for [Omeka][] that adds an "add item" link to the admin bar.
 The code is mostly borrowed from [Patrick Murray-John][]'s [EditLink
